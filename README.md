@@ -9,13 +9,26 @@
 [![Technology](https://img.shields.io/badge/Architecture-WebAudio%20%7C%20IndexedDB%20%7C%20CDP-purple.svg)]()
 
 ---
+---
 
-## 📖 项目简介
+## 📥 极速下载与安装 (Quick Download & Install)
 
-[SQLTeacher](https://github.com/danlingdan/Teacher) 是一款非常出色的 SQL 练习与知识点学习软件。
-为了让每天的刷题与编码过程更加**赏心悦目、沉浸高效、富有仪式感**，本项目为 SQLTeacher 量身开发了一整套现代化前端视觉交互与效率强化扩展套件。
+用户与朋友无需配置任何开发环境，直接点击下方链接即可下载完整开箱即用安装包：
 
-所有功能模块均具备**独立的开关与平滑调节滑块**，并在左侧导航栏以及右下角提供了精致的 **【✨ 美化与个性化体验工坊】**，可根据个人喜好随心定制。
+| 下载渠道 | 文件名 / 链接 | 适用场景 |
+| :--- | :--- | :--- |
+| 🚀 **GitHub Release 官方下载** | [**SQLTeacher-Enhance-v1.0.0.zip**](https://github.com/xxhhwtxx/SQLTeacher-Enhance/releases/download/v1.0.0/SQLTeacher-Enhance-v1.0.0.zip) | **推荐！** 包含独立引擎、样式与一键脚本（13.8MB） |
+| 📦 **仓库内直链下载** | [**SQLTeacher-美化强化扩展包.zip**](https://github.com/xxhhwtxx/SQLTeacher-Enhance/raw/main/SQLTeacher-美化强化扩展包.zip) | 仓库源码同款打包版 |
+| 🌐 **网页全量打包** | 点击页面右上角绿色按钮 **【Code】➔【Download ZIP】** | GitHub 官方自动生成的全量源码包 |
+
+### 🎯 极速安装指引（只需 3 秒）：
+1. 下载上述任意一个 .zip 压缩包并解压到电脑任意位置（如桌面）；
+2. 双击运行解压后的 **一键安装美化版.bat**；
+3. 安装向导会自动扫描识别您的 SQLTeacher，并在桌面上生成专属图标：
+   👉 **【SQLTeacher (毛玻璃美化版)】**
+4. 直接双击桌面图标即可畅享全新体验！
+
+*若想恢复原版，双击运行解压包内的 **一键恢复原版.bat** 即可瞬间纯净复原，官方程序零篡改零损坏。*
 
 ---
 
