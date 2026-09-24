@@ -1,0 +1,9 @@
+# Build and packaging artifacts
+__pycache__/
+*.pyc
+*.pyo
+build/
+*.log
+.DS_Store
+Thumbs.db
+*.tmp
